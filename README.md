@@ -1,1 +1,1 @@
-![badge](https://ci.appveyor.com/api/projects/status/f2qxutgbrfyn669i?svg=true)
+[![Build status](https://ci.appveyor.com/api/projects/status/3rb9sejcp5nooljc?svg=true)](https://ci.appveyor.com/project/KateBakhtina/ru-netology-apiandcitestingpostmanecho)
